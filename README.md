@@ -1,4 +1,4 @@
-# jj
+# Job_Junction
 
 ## Project setup
 ```
